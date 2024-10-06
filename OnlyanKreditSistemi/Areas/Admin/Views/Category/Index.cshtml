@@ -1,0 +1,36 @@
+﻿@model List<Category>
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+
+                <th scope="col">Name</th>
+                <th scope="col">Depth</th>
+                <th scope="col">Parent Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Depth</td>
+                    <td>@item.Parent?.Name</td>
+                    <td>
+                        <a asp-action="update" asp-controller="category" asp-route-id="@item.Id">
+                            <i style="color:orange;font-size:18px;" class="fas fa-wrench"></i>
+                        </a>
+
+                    </td>
+                    <td>
+                        <a onclick="if(!confirm('Are you Sure?')){return false;}" asp-action="delete" asp-controller="category" asp-route-id="@item.Id">
+                            <i style="color:red;font-size:18px;" class="fas fa-trash"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Add" asp-controller="category" class="btn btn-primary w-100">Add Category</a>
+</div>

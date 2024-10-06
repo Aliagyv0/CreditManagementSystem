@@ -1,0 +1,51 @@
+﻿@model List<AppUser>
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+              
+                <th scope="col">UserName</th>
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">Email</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.UserName</td>
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td>@item.Email</td>
+                    <td>
+                        <a onclick="if(!confirm('Are you Sure?')){return false;}" asp-action="doactive" asp-controller="admin" asp-route-id="@item.Id">
+                            @if (!item.IsActive)
+                            {
+                                <button class="btn btn-danger">DeActive</button>
+                            }
+                            else
+                            {
+                                <button class="btn btn-success">Active</button>
+                            }
+                        </a>
+                    </td>
+                    @* <td>
+                        <a asp-action="update" asp-controller="admin" asp-route-id="@item.Id">
+                            <i style="color:orange;font-size:18px;" class="fas fa-wrench"></i>
+                        </a>
+
+                    </td> *@
+                    <td>
+                        <a onclick="if(!confirm('Are you Sure?')){return false;}" asp-action="delete" asp-controller="admin" asp-route-id="@item.Id">
+                            <i style="color:red;font-size:18px;" class="fas fa-trash"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="add" asp-controller="admin" class="btn btn-primary w-100">Add Admin</a>
+</div>

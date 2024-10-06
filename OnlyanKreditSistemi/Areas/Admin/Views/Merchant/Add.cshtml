@@ -1,0 +1,40 @@
+﻿@using OnlyanKreditSistemi.Dtos.Merchants
+@model MerchantPostDto
+<div class="container-fluid mt-3">
+    <form method="post">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Name" class="form-label">Name</label>
+            <input type="text" class="form-control" asp-for="@Model.Name">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Surname" class="form-label">Surname</label>
+            <input type="text" class="form-control" asp-for="@Model.Surname">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Email" class="form-label">Email</label>
+            <input type="email" class="form-control" asp-for="@Model.Email">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Username" class="form-label">Username</label>
+            <input type="text" class="form-control" asp-for="@Model.Username">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.TerminalNo" class="form-label">TerminalNo</label>
+            <input type="number" class="form-control" asp-for="@Model.TerminalNo">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Description" class="form-label">Description</label>
+            <input type="text" class="form-control" asp-for="@Model.Description">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Password" class="form-label">Password</label>
+            <input type="password" class="form-control" asp-for="@Model.Password">
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.ConfirmPassword" class="form-label">ConfirmPassword</label>
+            <input type="password" class="form-control" asp-for="@Model.ConfirmPassword">
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Add Merchant</button>
+    </form>
+</div>

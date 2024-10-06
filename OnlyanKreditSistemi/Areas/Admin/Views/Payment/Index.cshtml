@@ -1,0 +1,27 @@
+﻿@model List<Payment>
+
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+
+                <th scope="col">Amount</th>
+                <th scope="col">Payment Type</th>
+                <th scope="col">Date</th>
+             
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Amount</td>
+                    <td>@item.PaymentType</td>
+                    <td>@item.CreateDate</td>
+               
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

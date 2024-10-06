@@ -1,0 +1,46 @@
+﻿@using Azure.Core
+@model List<Employee>
+@{
+    var query = Context.Request.Query["branchId"];
+
+}
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">Email</th>
+                <th scope="col">Position</th>
+                <th scope="col">Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.AppUser.Name</td>
+                    <td>@item.AppUser.Surname</td>
+                    <td>@item.AppUser.Email</td>
+                    <td>@item.Position</td>
+                   <td>@item.Phone</td>
+                    <td>
+                        <a asp-action="update" asp-controller="employee" asp-route-id="@item.Id" asp-route-branchId="@query">
+                            <i style="color:orange;font-size:18px;" class="fas fa-wrench"></i>
+                        </a>
+
+                    </td>
+                    <td>
+                        <a onclick="if(!confirm('Are you Sure?')){return false;}" asp-action="delete" asp-controller="employee" asp-route-id="@item.Id">
+                            <i style="color:red;font-size:18px;" class="fas fa-trash"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+    <a asp-action="add" asp-controller="employee" asp-route-branchId="@query" class="btn btn-primary w-100">Add Employee</a>
+</div>

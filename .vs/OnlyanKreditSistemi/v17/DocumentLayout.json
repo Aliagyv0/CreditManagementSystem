@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\models\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\models\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\loan\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\loan\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\shop\\basket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\shop\\basket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|c:\\users\\ali\\source\\repos\\onlyankreditsistemi\\onlyankreditsistemi\\models\\loandetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2243F063-01CB-4580-AD80-240268AE6BB1}|OnlyanKreditSistemi\\OnlyanKreditSistemi.csproj|solutionrelative:onlyankreditsistemi\\models\\loandetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:937911271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1223701457:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1243899234:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:26:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MerchantController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:26:25.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:26:15.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Program.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:15:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Repository\\Repository.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:14:11.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:14:49.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:59:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Category.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:17:05.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Account\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Models\\Account\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Account\\RegisterModel.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Models\\Account\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:13:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:11:15.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAIsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:27:27.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAgMjMzM7MiwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:25:46.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQAAAAAbGZmZuYswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:59:27.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Customer.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:16:55.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Basket.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Basket.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Shop\\Basket.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Basket.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Shop\\Basket.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwGAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T07:33:39.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAcAAABgYmZmZmYUwBUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:34:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAP8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:33:16.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:36:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:36:26.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAABoAAABAAwAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:54:24.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Loan\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Loan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Loan\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Loan\\Index.cshtml",
+              "ViewState": "AgIAACoAAADAemZmZmYUwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T09:32:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Loan\\Payment.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Loan\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Loan\\Payment.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Loan\\Payment.cshtml",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAAABECAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T09:44:20.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\Payment.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:36:58.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ViewState": "AgIAABMAAADAZmZmZiYgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:29:58.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Areas\\Admin\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAkAAABQZmZmZiYwwBUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:23:26.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAMAAACAlpmZmZkewBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:00:13.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAAcAAABg+P///78twBAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T07:59:22.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T07:51:12.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoanDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\LoanDetail.cs",
+              "RelativeDocumentMoniker": "OnlyanKreditSistemi\\Models\\LoanDetail.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\Models\\LoanDetail.cs",
+              "RelativeToolTip": "OnlyanKreditSistemi\\Models\\LoanDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:42:38.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

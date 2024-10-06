@@ -1,0 +1,24 @@
+﻿@model Category
+<div class="container-fluid mt-3">
+    <form method="post">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.Name" class="form-label">Name</label>
+            <input type="text" class="form-control" asp-for="@Model.Name">
+            <span asp-validation-for="Name" class="text text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="@Model.ParentId" class="form-label">ParentCategory</label>
+            <select class="form-select" asp-for="@Model.ParentId" aria-label="Default select example">
+                <option selected disabled ></option>
+
+                @foreach (var category in ViewBag.Categories)
+                {
+                    <option value="@category.Id">@category.Name</option>
+
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Add Category</button>
+    </form>
+</div>

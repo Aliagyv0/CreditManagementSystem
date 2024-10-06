@@ -1,0 +1,63 @@
+﻿@model OnlyanKreditSistemi.Models.Account.UpdateModel
+<style>
+    .form-control {
+        color: black !important;
+        border: var(--bs-border-width) solid var(--bs-border-color) !important;
+        padding: .375rem .75rem !important;
+        border-radius: var(--bs-border-radius) !important;
+    }
+</style>
+<div class="bg-light py-3 py-md-5">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-12 col-md-11 col-lg-8 col-xl-7 col-xxl-6">
+                <div class="p-5 p-md-5 rounded shadow-sm">
+                    
+                    <form method="post">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="row gy-3 gy-md-4 overflow-hidden">
+                            <div class="col-12">
+                                <label asp-for="Name" class="form-label">Name</label>
+                                <input type="text" class="form-control" asp-for="Name" required>
+                            </div>
+                            <div class="col-12">
+                                <label asp-for="Surname" class="form-label">SurName</label>
+                                <input type="text" class="form-control" asp-for="Surname" required>
+                            </div>
+                            <div class="col-12">
+                                <label fasp-for="Username" class="form-label">UserName</label>
+                                <input type="text" class="form-control" asp-for="Username" required>
+
+                            </div>
+                            <div class="col-12">
+                                <label asp-for="Email" class="form-label">Email </label>
+                                <input type="email" class="form-control" asp-for="Email" required>
+
+                            </div>
+                            <div class="col-12">
+                                <label asp-for="CurrentPassword" class="form-label">CurrentPassword </label>
+                                <input type="password" class="form-control" asp-for="CurrentPassword">
+                            </div>
+                            <div class="col-12">
+                                <label asp-for="Password" class="form-label">Password </label>
+                                <input type="password" class="form-control" asp-for="Password" >
+                            </div>
+                            <div class="col-12">
+                                <label asp-for="ConfirmPassword" class="form-label">Confirm Password </label>
+                                <input type="password" class="form-control" asp-for="ConfirmPassword" >
+                               </div>
+                            
+                            <div class="col-12">
+                                <div class="d-grid">
+                                    <button class="btn btn-lg btn-primary" type="submit">Update</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="row">
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

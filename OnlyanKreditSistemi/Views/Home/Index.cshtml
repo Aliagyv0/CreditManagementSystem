@@ -1,0 +1,168 @@
+﻿@model OnlyanKreditSistemi.ViewModels.HomeVM
+
+@{
+    int i = 1;
+}
+
+<div id="carouselExampleFade"
+     class="carousel slide carousel-fade"
+     data-bs-ride="carousel">
+    <div class="carousel-inner">
+     
+        @foreach (var slider in Model.Sliders)
+        {
+
+            <div class="carousel-item @(i==1 ?"active" : "")">
+
+                <img style="width:100vw; height:700px"  src="~/Photos/Sliders/@slider.ImageUrl" alt="@slider.Description" />
+
+            </div>
+           @( i++)
+        }
+    </div>
+    <button class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExampleFade"
+            data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExampleFade"
+            data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="site-section site-section-sm site-blocks-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="">
+                <div class="icon mr-4 align-self-start">
+                    <span class="icon-truck"></span>
+                </div>
+                <div class="text">
+                    <h2 class="text-uppercase">Free Shipping</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon mr-4 align-self-start">
+                    <span class="icon-refresh2"></span>
+                </div>
+                <div class="text">
+                    <h2 class="text-uppercase">Free Returns</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon mr-4 align-self-start">
+                    <span class="icon-help"></span>
+                </div>
+                <div class="text">
+                    <h2 class="text-uppercase">Customer Support</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section site-blocks-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0" style="width:100%" height="100%" data-aos="fade" data-aos-delay="">
+                <a class="block-2-item" style="width:100%;height:100%;" href="#">
+                    <figure class="image">
+                        <img src="/Photos/Products/macbook.jpg" style="width:100%;height:100%" height="100%" alt="" class="img-fluid">
+                    </figure>
+                    <div class="text">
+                        <h3>Buy a new Mac or iPad 
+                            </h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" style="width:100%" height="100%" data-aos="fade" data-aos-delay="100">
+                <a class="block-2-item" style="width:100%;height:100%;" href="#">
+                    <figure class="image">
+                        <img src="/Photos/airpods-4.jpg" style="width:100%;height:100%" height="100%" alt="" class="img-fluid">
+                    </figure>
+                    <div class="text">
+                        <span class="text-uppercase"></span>
+                        <h3>AirPods 4</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" style="width:100%" height="100%" data-aos="fade" data-aos-delay="200">
+                <a class="block-2-item" style="width:100%;height:100%;"  href="#">
+                    <figure class="image">
+                        <img src="/Photos/iphone_16.png" style="width:100%;height:100%;" height="100%" alt="" class="img-fluid">
+                    </figure>
+                    <div class="text">
+                        <span class="text-uppercase"></span>
+                        <h3>IPhone16</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section block-3 site-blocks-2 bg-light">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-7 site-section-heading text-center pt-4">
+                <h2> Products</h2>
+            </div>
+        </div>
+        <div class="row" >
+            <div class="col-md-12">
+                <div class="nonloop-block-3 owl-carousel ">
+                    @foreach(var product in Model.Products)
+                    {
+                        
+                        <div class="item">
+                             <a asp-action="detail" asp-controller="shop" asp-route-id="@product.Id">
+                                <div class="block-4 text-center">
+                                <figure class="block-4-image">
+                                        <img src="/Photos/Products/@product.ImageUrl" alt="Image placeholder" class="img-fluid" style="height:320px; width:320px;">
+                                </figure>
+                                    <div class="block-4-text p-4">
+                                    <h3><a href="#">@product.Name</a></h3>
+                                    <p class="mb-0">@product.Description</p>
+                                    <p class="text-primary font-weight-bold">@product.Price$</p>
+                                </div>
+                            </div>
+                            </a>
+                        </div>
+                        
+                    }
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section block-8">
+    <div class="container">
+        <div class="row justify-content-center  mb-5">
+            <div class="col-md-7 site-section-heading text-center pt-4">
+                <h2>Big Sale!</h2>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-12 col-lg-7 mb-5">
+                <a href="#"><img src="/Photos/sekil.webp" alt="Image placeholder" class="img-fluid rounded"></a>
+            </div>
+            <div class="col-md-12 col-lg-5 text-center pl-md-5">
+                <h2><a href="#">50% less in all items</a></h2>
+                <p class="post-meta mb-4">By <a href="#">Carl Smith</a> <span class="block-8-sep">&bullet;</span> September 3, 2018</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam iste dolor accusantium facere corporis ipsum animi deleniti fugiat. Ex, veniam?</p>
+                <p><a class="btn btn-primary btn-sm" asp-action="index" asp-controller="Shop">Shop Now</a></p>
+            </div>
+        </div>
+    </div>
+</div>

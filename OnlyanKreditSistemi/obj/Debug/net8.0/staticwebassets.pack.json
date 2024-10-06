@@ -1,0 +1,1369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlyanKreditSistemi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlyanKreditSistemi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\ElecLogo.png",
+      "PackagePath": "staticwebassets\\Photos\\ElecLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Markalar.webp",
+      "PackagePath": "staticwebassets\\Photos\\Markalar.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\12e2d3c5-c47a-4b72-b215-80342272e368hp omen.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\12e2d3c5-c47a-4b72-b215-80342272e368hp omen.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\3ba3637c-4f40-480d-8f5b-ac35027076a016promax.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\3ba3637c-4f40-480d-8f5b-ac35027076a016promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\41a9ed11-593e-4f5d-becd-594afc57050716.png",
+      "PackagePath": "staticwebassets\\Photos\\Products\\41a9ed11-593e-4f5d-becd-594afc57050716.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\4af160ec-e4f1-46c7-aa55-91a8a527b0d1Hp pavilion.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\4af160ec-e4f1-46c7-aa55-91a8a527b0d1Hp pavilion.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\65c41d0a-7e78-4fd0-bfa9-33bdcd0fc7f4monitor samsung.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\65c41d0a-7e78-4fd0-bfa9-33bdcd0fc7f4monitor samsung.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\815c646d-594a-462a-b0e4-66e83294a29615 apple.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\815c646d-594a-462a-b0e4-66e83294a29615 apple.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\897f0233-4714-4814-8a0d-a40a62d2288bmacbook.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\897f0233-4714-4814-8a0d-a40a62d2288bmacbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\a16eab44-88fc-4b13-985a-ee82967a8718airpods-4.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\a16eab44-88fc-4b13-985a-ee82967a8718airpods-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\beb336cd-788d-49a0-b8e6-2559d902b5af14 pro.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\beb336cd-788d-49a0-b8e6-2559d902b5af14 pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\d31f399c-302b-457a-b802-82a28da0ee65lenova.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\d31f399c-302b-457a-b802-82a28da0ee65lenova.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\d5e34888-b6f6-4ac4-a23d-da6d9488763716promax.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\d5e34888-b6f6-4ac4-a23d-da6d9488763716promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\e40db902-bf3e-4fd4-b96d-82fc50870cadDell.webp",
+      "PackagePath": "staticwebassets\\Photos\\Products\\e40db902-bf3e-4fd4-b96d-82fc50870cadDell.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\eed4f061-fc2b-41f4-985b-f67146792ad116promax.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\eed4f061-fc2b-41f4-985b-f67146792ad116promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\f9103823-e88a-4edf-8458-2c5915187366macbook 2000.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\f9103823-e88a-4edf-8458-2c5915187366macbook 2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Products\\macbook.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Products\\macbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\40391098-8fce-4abc-9a89-b277c210afdemacbook 2000.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\40391098-8fce-4abc-9a89-b277c210afdemacbook 2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\5bc9cb1e-ac9a-48fc-a13a-57ee8ce952a5elektronika.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\5bc9cb1e-ac9a-48fc-a13a-57ee8ce952a5elektronika.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\5e2453b1-c52f-4694-8d36-c0efa68217faPlayStation-5-Slim.webp",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\5e2453b1-c52f-4694-8d36-c0efa68217faPlayStation-5-Slim.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\62765e6d-4ce7-4bcd-ae6b-20887f9fe8aeipad.webp",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\62765e6d-4ce7-4bcd-ae6b-20887f9fe8aeipad.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\6cd96c29-1ae6-4956-a4bd-e58cdfee9b48Tvv.avif",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\6cd96c29-1ae6-4956-a4bd-e58cdfee9b48Tvv.avif"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\759d789c-165e-401f-84d0-9349b005487016promax.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\759d789c-165e-401f-84d0-9349b005487016promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\bdf4fa14-d4ee-4e00-a3e0-71d1a51a5cb9Screenshot20atE2AFAM.webp",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\bdf4fa14-d4ee-4e00-a3e0-71d1a51a5cb9Screenshot20atE2AFAM.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\c2831e5c-03bf-4c61-bac6-dcc9f83616a9Tv.avif",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\c2831e5c-03bf-4c61-bac6-dcc9f83616a9Tv.avif"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\c6c4b6c6-7b70-4d44-b6a7-d878475ae903ps5-pro.avif",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\c6c4b6c6-7b70-4d44-b6a7-d878475ae903ps5-pro.avif"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\d5a5b54b-704e-4663-b03f-85906edcfc5dhp omen.webp",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\d5a5b54b-704e-4663-b03f-85906edcfc5dhp omen.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\de77f05f-1d09-49d0-b60d-5f8a0f073814elektronika.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\de77f05f-1d09-49d0-b60d-5f8a0f073814elektronika.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\Sliders\\dfbb31f6-b81f-497c-afe3-177a9f76006eelektronika.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Sliders\\dfbb31f6-b81f-497c-afe3-177a9f76006eelektronika.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\airpods-4.jpg",
+      "PackagePath": "staticwebassets\\Photos\\airpods-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\iphone_16.png",
+      "PackagePath": "staticwebassets\\Photos\\iphone_16.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\Photos\\sekil.webp",
+      "PackagePath": "staticwebassets\\Photos\\sekil.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\children.jpg",
+      "PackagePath": "staticwebassets\\images\\children.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\cloth_1.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\cloth_2.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\cloth_3.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\hero_1.png",
+      "PackagePath": "staticwebassets\\images\\hero_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\images\\men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\images\\shoe.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\shoe_1.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\OnlyanKreditSistemi\\OnlyanKreditSistemi\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlyanKreditSistemi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlyanKreditSistemi.props",
+      "PackagePath": "build\\OnlyanKreditSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlyanKreditSistemi.props",
+      "PackagePath": "buildMultiTargeting\\OnlyanKreditSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlyanKreditSistemi.props",
+      "PackagePath": "buildTransitive\\OnlyanKreditSistemi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

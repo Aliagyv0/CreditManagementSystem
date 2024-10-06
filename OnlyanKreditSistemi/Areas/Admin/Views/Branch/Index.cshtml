@@ -1,0 +1,49 @@
+﻿
+@model List<Branch>
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Address</th>
+                <th scope="col">Description</th>
+                <th scope="col">EmployeeCount</th>
+                <th scope="col">MerchantName</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td> @item.Address </td>
+                    <td>@item.Description</td>
+                    <td>@item.Employees.Count</td>
+                    <td>@item.Merchant.AppUser.UserName</td>
+                    <td>
+                        <a asp-action="index" asp-controller="employee" asp-route-branchId="@item.Id">
+                            <i style="color:green;font-size:18px;" class="fas fa-users"></i>
+                        </a>
+
+                    </td>
+                    <td>
+                        <a asp-action="update" asp-controller="branch" asp-route-id="@item.Id">
+                            <i style="color:orange;font-size:18px;" class="fas fa-wrench"></i>
+                        </a>
+
+                    </td>
+                    <td>
+                        <a onclick="if(!confirm('Are you Sure?')){return false;}" asp-action="delete" asp-controller="branch" asp-route-id="@item.Id">
+                            <i style="color:red;font-size:18px;" class="fas fa-trash"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @if (!User.IsInRole("Merchant"))
+    {
+        <a asp-action="add" asp-controller="branch" class="btn btn-primary w-100">Add Branch</a>
+    }
+</div>

@@ -1,0 +1,39 @@
+﻿@model List<Loan>
+
+<div class="container-fluid">
+    <table class="table" style="text-align:center">
+        <thead>
+            <tr>
+
+                <th scope="col">Title</th>
+                <th scope="col">MonthlyPrice</th>
+                <th scope="col">TotalPrice</th>
+                <th scope="col">CustomerName</th>
+                <th scope="col">IsConfirmed</th>
+                <th scope="col">CurrentAmount</th>
+                <th scope="col">Payments</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.MonthlyPrice</td>
+                    <td>@item.TotalPrice</td>
+                    <td>@item.Customer.AppUser.UserName</td>
+                    <td>@item.IsConfirmed</td>
+                    <td>@item.LoanDetail.CurrentAmount</td>
+
+                    <td>
+                        <a asp-action="index" asp-controller="payment" asp-route-loanId="@item.Id">
+                            <i style="color:orange;font-size:18px;" class="fas fa-file-invoice-dollar"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
